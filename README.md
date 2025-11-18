@@ -1,5 +1,5 @@
-[![Video](https://img.shields.io/badge/Video-Experiments-red)](https://youtu.be/AM8firwm5uU)
 # A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking
+[![Video](https://img.shields.io/badge/Video-Experiments-red)](https://youtu.be/AM8firwm5uU)
 This repository contains the official implementation of our paper:  
 **"A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking"**.
 
