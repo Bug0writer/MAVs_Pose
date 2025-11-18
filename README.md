@@ -1,8 +1,16 @@
-# A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking
+<div align="center">
+  <h1>A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking</h1>
+
+<p align="center">
+  <a href="https://youtu.be/AM8firwm5uU">
+    <img src="https://img.shields.io/badge/Video-blue?logo=youtube&logoColor=white&labelColor=grey&color=blue"></a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+</div>
 
 This repository contains the official implementation of our paper:  
-**"A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking"**.[![Video](https://img.shields.io/badge/Video-Experiments-red)](https://youtu.be/AM8firwm5uU)
-
+**"A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking"**.
 
 
 > **Note:** The Python code for model training and inference will be released soon.
