@@ -1,4 +1,4 @@
-# Probabilistic MAV Pose Estimation for Aerial Docking
+# A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking
 This repository contains the official implementation of our paper:  
 **"A Probabilistic Pose Estimation Framework for Micro Aerial Vehicles: Enabling Vision-Based Aerial Docking"**.
 
